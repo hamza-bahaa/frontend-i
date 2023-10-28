@@ -1,0 +1,50 @@
+[
+ {
+  "data": [
+   {
+    "id": 1,
+    "imageModels": [
+     {
+      "id": 1,
+      "thumbnailUrl": "https://www.thekarighars.com/wp-content/uploads/2022/08/TheKariBlogImg3.jpg"
+     },
+     {
+      "id": 2,
+      "thumbnailUrl": "https://www.thekarighars.com/wp-content/uploads/2022/08/TheKariBlogImg3.jpg"
+     },
+     {
+      "id": 3,
+      "thumbnailUrl": "https://www.thekarighars.com/wp-content/uploads/2022/08/TheKariBlogImg3.jpg"
+     },
+     [
+      {
+       "title": "senzo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, et?"
+      }
+     ]
+    ]
+   },
+   {
+    "id": 2,
+    "imageModels": [
+     {
+      "id": 1,
+      "thumbnailUrl": "https://www.thekarighars.com/wp-content/uploads/2022/08/TheKariBlogImg3.jpg"
+     },
+     {
+      "id": 2,
+      "thumbnailUrl": "https://www.thekarighars.com/wp-content/uploads/2022/08/TheKariBlogImg3.jpg"
+     },
+     {
+      "id": 3,
+      "thumbnailUrl": "https://www.thekarighars.com/wp-content/uploads/2022/08/TheKariBlogImg3.jpg"
+     },
+     [
+      {
+       "title": " xtrem-communication  adipiscing elit. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, et?"
+      }
+     ]
+    ]
+   }
+  ]
+ }
+]
